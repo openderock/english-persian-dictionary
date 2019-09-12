@@ -1,0 +1,24 @@
+{
+  "name": "english-persian-dictionary",
+  "version": "1.0.0",
+  "description": "English Persian Word Database - Popular database extensions",
+  "main": "index.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/openderock/english-persian-dictionary.git"
+  },
+  "keywords": [
+    "dictionary",
+    "english",
+    "persian"
+  ],
+  "author": "https://derock.ir",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/openderock/english-persian-dictionary/issues"
+  },
+  "homepage": "https://github.com/openderock/english-persian-dictionary#readme"
+}
